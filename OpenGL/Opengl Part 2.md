@@ -1,4 +1,4 @@
-# Lecture - 40: Graphics Programming Using OpenGL
+Graphics Programming Using OpenGL
 
 ## Introduction
 - Discusses the second part of OpenGL, a standard for computer graphics.
